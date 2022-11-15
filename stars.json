@@ -1,15 +1,15 @@
 [
   {
     "full_name": "go-redis/redis",
-    "stargazers_count": 15842,
-    "open_issues_count": 162,
-    "forks_count": 1914
+    "stargazers_count": 15872,
+    "open_issues_count": 163,
+    "forks_count": 1915
   },
   {
     "full_name": "quii/learn-go-with-tests",
-    "stargazers_count": 18697,
-    "open_issues_count": 32,
-    "forks_count": 2454
+    "stargazers_count": 18727,
+    "open_issues_count": 33,
+    "forks_count": 2456
   },
   {
     "full_name": "janritter/aws-lambda-live-tuner",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "tmrts/go-patterns",
-    "stargazers_count": 20448,
+    "stargazers_count": 20474,
     "open_issues_count": 61,
-    "forks_count": 1913
+    "forks_count": 1915
   },
   {
     "full_name": "hendratommy/repository-pattern",
@@ -33,7 +33,7 @@
     "full_name": "shomali11/go-interview",
     "stargazers_count": 3890,
     "open_issues_count": 0,
-    "forks_count": 414
+    "forks_count": 415
   },
   {
     "full_name": "meteran/gnext",
@@ -43,61 +43,61 @@
   },
   {
     "full_name": "goreleaser/goreleaser",
-    "stargazers_count": 10871,
-    "open_issues_count": 25,
+    "stargazers_count": 10896,
+    "open_issues_count": 22,
     "forks_count": 766
   },
   {
     "full_name": "SerenityOS/jakt",
-    "stargazers_count": 2313,
-    "open_issues_count": 75,
-    "forks_count": 223
+    "stargazers_count": 2317,
+    "open_issues_count": 79,
+    "forks_count": 224
   },
   {
     "full_name": "uber-go/zap",
-    "stargazers_count": 17367,
-    "open_issues_count": 106,
-    "forks_count": 1236
+    "stargazers_count": 17394,
+    "open_issues_count": 108,
+    "forks_count": 1238
   },
   {
     "full_name": "gohugoio/hugo",
-    "stargazers_count": 63580,
-    "open_issues_count": 672,
-    "forks_count": 6874
+    "stargazers_count": 63673,
+    "open_issues_count": 670,
+    "forks_count": 6878
   },
   {
     "full_name": "formancehq/ledger",
-    "stargazers_count": 516,
-    "open_issues_count": 17,
+    "stargazers_count": 517,
+    "open_issues_count": 19,
     "forks_count": 68
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 31474,
+    "stargazers_count": 31602,
     "open_issues_count": 95,
-    "forks_count": 5146
+    "forks_count": 5178
   },
   {
     "full_name": "PacktPublishing/Practical-System-Programming-for-Rust-Developers",
-    "stargazers_count": 74,
+    "stargazers_count": 78,
     "open_issues_count": 0,
     "forks_count": 36
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 217647,
-    "open_issues_count": 156,
-    "forks_count": 31448
+    "stargazers_count": 217989,
+    "open_issues_count": 153,
+    "forks_count": 31508
   },
   {
     "full_name": "google/tink",
-    "stargazers_count": 12799,
-    "open_issues_count": 120,
-    "forks_count": 1150
+    "stargazers_count": 12806,
+    "open_issues_count": 122,
+    "forks_count": 1152
   },
   {
     "full_name": "randallkanna/awesome-job-list",
-    "stargazers_count": 1233,
+    "stargazers_count": 1234,
     "open_issues_count": 2,
     "forks_count": 134
   },
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "emirpasic/gods",
-    "stargazers_count": 12789,
+    "stargazers_count": 12796,
     "open_issues_count": 24,
-    "forks_count": 1504
+    "forks_count": 1506
   },
   {
     "full_name": "teivah/algodeck",
-    "stargazers_count": 4847,
+    "stargazers_count": 4850,
     "open_issues_count": 0,
     "forks_count": 471
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "tokio-rs/tokio",
-    "stargazers_count": 18169,
-    "open_issues_count": 236,
-    "forks_count": 1686
+    "stargazers_count": 18224,
+    "open_issues_count": 235,
+    "forks_count": 1690
   },
   {
     "full_name": "Liquid-Prep/Liquid-Prep",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 82077,
+    "stargazers_count": 82309,
     "open_issues_count": 28,
-    "forks_count": 6587
+    "forks_count": 6607
   },
   {
     "full_name": "PistonDevelopers/graphics",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "aquasecurity/tfsec",
-    "stargazers_count": 5314,
+    "stargazers_count": 5322,
     "open_issues_count": 60,
-    "forks_count": 465
+    "forks_count": 464
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 29961,
+    "stargazers_count": 30056,
     "open_issues_count": 11,
     "forks_count": 1967
   },
   {
     "full_name": "awslabs/aws-sdk-rust",
-    "stargazers_count": 1935,
-    "open_issues_count": 92,
-    "forks_count": 155
+    "stargazers_count": 1945,
+    "open_issues_count": 93,
+    "forks_count": 156
   },
   {
     "full_name": "cloudposse/terraform-aws-ecs-alb-service-task",
-    "stargazers_count": 118,
+    "stargazers_count": 119,
     "open_issues_count": 9,
-    "forks_count": 157
+    "forks_count": 158
   },
   {
     "full_name": "cloudposse/terraform-aws-ecs-container-definition",
     "stargazers_count": 291,
     "open_issues_count": 7,
-    "forks_count": 205
+    "forks_count": 206
   }
 ]
