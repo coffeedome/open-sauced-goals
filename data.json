@@ -1,14 +1,14 @@
 [
   {
     "full_name": "hashicorp/terraform",
-    "stargazers_count": 35153,
+    "stargazers_count": 35198,
     "open_issues_count": 1694,
-    "forks_count": 8115
+    "forks_count": 8129
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 806,
-    "open_issues_count": 11,
-    "forks_count": 443
+    "stargazers_count": 812,
+    "open_issues_count": 10,
+    "forks_count": 445
   }
 ]
