@@ -1,13 +1,13 @@
 [
   {
     "full_name": "aws/aws-cdk-go",
-    "stargazers_count": 127,
+    "stargazers_count": 128,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "DataDog/go-profiler-notes",
-    "stargazers_count": 3076,
+    "stargazers_count": 3084,
     "open_issues_count": 0,
     "forks_count": 180
   },
@@ -20,32 +20,32 @@
   {
     "full_name": "mauricioabreu/golings",
     "stargazers_count": 93,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "runfinch/finch",
-    "stargazers_count": 2296,
+    "stargazers_count": 2314,
     "open_issues_count": 40,
     "forks_count": 54
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 107139,
-    "open_issues_count": 8050,
-    "forks_count": 15753
+    "stargazers_count": 107247,
+    "open_issues_count": 8054,
+    "forks_count": 15758
   },
   {
     "full_name": "go-redis/redis",
-    "stargazers_count": 16134,
+    "stargazers_count": 16152,
     "open_issues_count": 164,
-    "forks_count": 1957
+    "forks_count": 1959
   },
   {
     "full_name": "quii/learn-go-with-tests",
-    "stargazers_count": 18946,
+    "stargazers_count": 18966,
     "open_issues_count": 38,
-    "forks_count": 2500
+    "forks_count": 2502
   },
   {
     "full_name": "janritter/aws-lambda-live-tuner",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "tmrts/go-patterns",
-    "stargazers_count": 21010,
+    "stargazers_count": 21027,
     "open_issues_count": 62,
-    "forks_count": 1956
+    "forks_count": 1958
   },
   {
     "full_name": "hendratommy/repository-pattern",
@@ -67,51 +67,51 @@
   },
   {
     "full_name": "shomali11/go-interview",
-    "stargazers_count": 4084,
+    "stargazers_count": 4088,
     "open_issues_count": 0,
-    "forks_count": 434
+    "forks_count": 433
   },
   {
     "full_name": "meteran/gnext",
     "stargazers_count": 43,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "goreleaser/goreleaser",
-    "stargazers_count": 11049,
+    "stargazers_count": 11057,
     "open_issues_count": 22,
-    "forks_count": 781
+    "forks_count": 783
   },
   {
     "full_name": "SerenityOS/jakt",
-    "stargazers_count": 2380,
-    "open_issues_count": 80,
-    "forks_count": 229
+    "stargazers_count": 2385,
+    "open_issues_count": 84,
+    "forks_count": 230
   },
   {
     "full_name": "uber-go/zap",
-    "stargazers_count": 17723,
-    "open_issues_count": 109,
-    "forks_count": 1258
+    "stargazers_count": 17748,
+    "open_issues_count": 110,
+    "forks_count": 1260
   },
   {
     "full_name": "gohugoio/hugo",
-    "stargazers_count": 64447,
-    "open_issues_count": 690,
-    "forks_count": 6947
+    "stargazers_count": 64502,
+    "open_issues_count": 694,
+    "forks_count": 6955
   },
   {
     "full_name": "formancehq/ledger",
-    "stargazers_count": 546,
+    "stargazers_count": 552,
     "open_issues_count": 12,
     "forks_count": 70
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 33063,
-    "open_issues_count": 100,
-    "forks_count": 5485
+    "stargazers_count": 33163,
+    "open_issues_count": 99,
+    "forks_count": 5513
   },
   {
     "full_name": "PacktPublishing/Practical-System-Programming-for-Rust-Developers",
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 222872,
-    "open_issues_count": 149,
-    "forks_count": 32220
+    "stargazers_count": 223240,
+    "open_issues_count": 161,
+    "forks_count": 32283
   },
   {
     "full_name": "google/tink",
-    "stargazers_count": 12881,
+    "stargazers_count": 12887,
     "open_issues_count": 120,
-    "forks_count": 1168
+    "forks_count": 1167
   },
   {
     "full_name": "randallkanna/awesome-job-list",
-    "stargazers_count": 1279,
-    "open_issues_count": 3,
-    "forks_count": 141
+    "stargazers_count": 1281,
+    "open_issues_count": 4,
+    "forks_count": 142
   },
   {
     "full_name": "coffeedome/ctci-go",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "emirpasic/gods",
-    "stargazers_count": 13017,
+    "stargazers_count": 13045,
     "open_issues_count": 26,
     "forks_count": 1532
   },
   {
     "full_name": "teivah/algodeck",
-    "stargazers_count": 4950,
+    "stargazers_count": 4957,
     "open_issues_count": 0,
-    "forks_count": 495
+    "forks_count": 496
   },
   {
     "full_name": "careercup/CtCI-6th-Edition-Go",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "tokio-rs/tokio",
-    "stargazers_count": 18712,
-    "open_issues_count": 239,
-    "forks_count": 1737
+    "stargazers_count": 18739,
+    "open_issues_count": 243,
+    "forks_count": 1743
   },
   {
     "full_name": "Liquid-Prep/Liquid-Prep",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 85718,
-    "open_issues_count": 33,
-    "forks_count": 6743
+    "stargazers_count": 85985,
+    "open_issues_count": 34,
+    "forks_count": 6749
   }
 ]
