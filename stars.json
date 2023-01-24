@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "tc39/ecma262",
+    "stargazers_count": 13877,
+    "open_issues_count": 390,
+    "forks_count": 1290
+  },
+  {
     "full_name": "gojp/goreportcard",
-    "stargazers_count": 1807,
-    "open_issues_count": 22,
+    "stargazers_count": 1811,
+    "open_issues_count": 23,
     "forks_count": 251
   },
   {
     "full_name": "bxcodec/go-clean-arch",
-    "stargazers_count": 7157,
+    "stargazers_count": 7179,
     "open_issues_count": 18,
     "forks_count": 1026
   },
   {
     "full_name": "weaveworks/ignite",
-    "stargazers_count": 3172,
+    "stargazers_count": 3177,
     "open_issues_count": 163,
     "forks_count": 195
   },
   {
     "full_name": "awslabs/aws-lambda-rust-runtime",
-    "stargazers_count": 2471,
-    "open_issues_count": 6,
-    "forks_count": 242
+    "stargazers_count": 2490,
+    "open_issues_count": 5,
+    "forks_count": 243
   },
   {
     "full_name": "aws/aws-cdk-go",
@@ -31,9 +37,9 @@
   },
   {
     "full_name": "DataDog/go-profiler-notes",
-    "stargazers_count": 3120,
+    "stargazers_count": 3123,
     "open_issues_count": 0,
-    "forks_count": 182
+    "forks_count": 183
   },
   {
     "full_name": "syte-ai/iOS-SDK",
@@ -43,31 +49,31 @@
   },
   {
     "full_name": "mauricioabreu/golings",
-    "stargazers_count": 96,
+    "stargazers_count": 97,
     "open_issues_count": 2,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "runfinch/finch",
-    "stargazers_count": 2428,
-    "open_issues_count": 44,
-    "forks_count": 57
+    "stargazers_count": 2458,
+    "open_issues_count": 47,
+    "forks_count": 58
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 107687,
-    "open_issues_count": 8115,
-    "forks_count": 15816
+    "stargazers_count": 107769,
+    "open_issues_count": 8105,
+    "forks_count": 15825
   },
   {
     "full_name": "go-redis/redis",
-    "stargazers_count": 16239,
-    "open_issues_count": 161,
-    "forks_count": 1958
+    "stargazers_count": 16259,
+    "open_issues_count": 157,
+    "forks_count": 1959
   },
   {
     "full_name": "quii/learn-go-with-tests",
-    "stargazers_count": 19047,
+    "stargazers_count": 19060,
     "open_issues_count": 39,
     "forks_count": 2515
   },
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "tmrts/go-patterns",
-    "stargazers_count": 21146,
+    "stargazers_count": 21225,
     "open_issues_count": 63,
-    "forks_count": 1969
+    "forks_count": 1973
   },
   {
     "full_name": "hendratommy/repository-pattern",
@@ -91,73 +97,73 @@
   },
   {
     "full_name": "shomali11/go-interview",
-    "stargazers_count": 4158,
+    "stargazers_count": 4203,
     "open_issues_count": 0,
-    "forks_count": 439
+    "forks_count": 442
   },
   {
     "full_name": "meteran/gnext",
     "stargazers_count": 47,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "goreleaser/goreleaser",
-    "stargazers_count": 11137,
-    "open_issues_count": 24,
-    "forks_count": 787
+    "stargazers_count": 11142,
+    "open_issues_count": 20,
+    "forks_count": 788
   },
   {
     "full_name": "SerenityOS/jakt",
-    "stargazers_count": 2402,
-    "open_issues_count": 64,
+    "stargazers_count": 2404,
+    "open_issues_count": 65,
     "forks_count": 230
   },
   {
     "full_name": "uber-go/zap",
-    "stargazers_count": 17863,
+    "stargazers_count": 17886,
     "open_issues_count": 111,
     "forks_count": 1266
   },
   {
     "full_name": "gohugoio/hugo",
-    "stargazers_count": 64826,
-    "open_issues_count": 690,
-    "forks_count": 6992
+    "stargazers_count": 64877,
+    "open_issues_count": 694,
+    "forks_count": 7001
   },
   {
     "full_name": "formancehq/ledger",
-    "stargazers_count": 563,
-    "open_issues_count": 14,
-    "forks_count": 72
+    "stargazers_count": 564,
+    "open_issues_count": 11,
+    "forks_count": 74
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 33621,
-    "open_issues_count": 102,
-    "forks_count": 5609
+    "stargazers_count": 33784,
+    "open_issues_count": 106,
+    "forks_count": 5630
   },
   {
     "full_name": "PacktPublishing/Practical-System-Programming-for-Rust-Developers",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 0,
     "forks_count": 36
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 225854,
-    "open_issues_count": 125,
-    "forks_count": 32526
+    "stargazers_count": 226221,
+    "open_issues_count": 129,
+    "forks_count": 32552
   },
   {
     "full_name": "google/tink",
-    "stargazers_count": 12960,
-    "open_issues_count": 125,
+    "stargazers_count": 12964,
+    "open_issues_count": 124,
     "forks_count": 1175
   },
   {
     "full_name": "randallkanna/awesome-job-list",
-    "stargazers_count": 1283,
+    "stargazers_count": 1282,
     "open_issues_count": 4,
     "forks_count": 142
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "emirpasic/gods",
-    "stargazers_count": 13161,
+    "stargazers_count": 13171,
     "open_issues_count": 25,
-    "forks_count": 1545
-  },
-  {
-    "full_name": "teivah/algodeck",
-    "stargazers_count": 4975,
-    "open_issues_count": 0,
-    "forks_count": 496
+    "forks_count": 1546
   }
 ]
