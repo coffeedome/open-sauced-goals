@@ -1,33 +1,33 @@
 [
   {
     "full_name": "graphql-rust/juniper",
-    "stargazers_count": 5064,
+    "stargazers_count": 5073,
     "open_issues_count": 125,
-    "forks_count": 398
+    "forks_count": 399
   },
   {
     "full_name": "vercel-community/rust",
-    "stargazers_count": 475,
+    "stargazers_count": 477,
     "open_issues_count": 5,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 23598,
-    "open_issues_count": 106,
-    "forks_count": 811
+    "stargazers_count": 23771,
+    "open_issues_count": 112,
+    "forks_count": 817
   },
   {
     "full_name": "docker/awesome-compose",
-    "stargazers_count": 22391,
+    "stargazers_count": 22466,
     "open_issues_count": 101,
-    "forks_count": 4096
+    "forks_count": 4132
   },
   {
     "full_name": "DvorakDwarf/Infinite-Storage-Glitch",
-    "stargazers_count": 9427,
+    "stargazers_count": 9509,
     "open_issues_count": 0,
-    "forks_count": 669
+    "forks_count": 684
   },
   {
     "full_name": "Stedi/ts2asl",
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "tlepoint/fhe.rs",
-    "stargazers_count": 95,
-    "open_issues_count": 3,
+    "stargazers_count": 98,
+    "open_issues_count": 4,
     "forks_count": 5
   },
   {
     "full_name": "LukeMathWalker/pavex",
-    "stargazers_count": 506,
+    "stargazers_count": 511,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "cloudflare/wildebeest",
-    "stargazers_count": 1837,
+    "stargazers_count": 1839,
     "open_issues_count": 22,
-    "forks_count": 363
+    "forks_count": 365
   },
   {
     "full_name": "coffeedome/rustlings",
@@ -61,32 +61,32 @@
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 14012,
-    "open_issues_count": 386,
-    "forks_count": 1307
+    "stargazers_count": 14019,
+    "open_issues_count": 388,
+    "forks_count": 1309
   },
   {
     "full_name": "gojp/goreportcard",
     "stargazers_count": 1838,
-    "open_issues_count": 26,
+    "open_issues_count": 25,
     "forks_count": 252
   },
   {
     "full_name": "bxcodec/go-clean-arch",
-    "stargazers_count": 7406,
+    "stargazers_count": 7419,
     "open_issues_count": 19,
     "forks_count": 1060
   },
   {
     "full_name": "weaveworks/ignite",
-    "stargazers_count": 3310,
+    "stargazers_count": 3324,
     "open_issues_count": 169,
-    "forks_count": 201
+    "forks_count": 202
   },
   {
     "full_name": "awslabs/aws-lambda-rust-runtime",
-    "stargazers_count": 2643,
-    "open_issues_count": 19,
+    "stargazers_count": 2651,
+    "open_issues_count": 18,
     "forks_count": 264
   },
   {
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "DataDog/go-profiler-notes",
-    "stargazers_count": 3214,
+    "stargazers_count": 3215,
     "open_issues_count": 0,
-    "forks_count": 190
+    "forks_count": 191
   },
   {
     "full_name": "syte-ai/iOS-SDK",
@@ -109,33 +109,33 @@
   },
   {
     "full_name": "mauricioabreu/golings",
-    "stargazers_count": 130,
-    "open_issues_count": 2,
+    "stargazers_count": 134,
+    "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "runfinch/finch",
-    "stargazers_count": 2665,
-    "open_issues_count": 69,
-    "forks_count": 63
+    "stargazers_count": 2672,
+    "open_issues_count": 62,
+    "forks_count": 66
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 109764,
-    "open_issues_count": 8273,
-    "forks_count": 16098
+    "stargazers_count": 109879,
+    "open_issues_count": 8284,
+    "forks_count": 16120
   },
   {
     "full_name": "redis/go-redis",
-    "stargazers_count": 16908,
-    "open_issues_count": 174,
-    "forks_count": 2034
+    "stargazers_count": 16929,
+    "open_issues_count": 187,
+    "forks_count": 2038
   },
   {
     "full_name": "quii/learn-go-with-tests",
-    "stargazers_count": 19419,
-    "open_issues_count": 36,
-    "forks_count": 2551
+    "stargazers_count": 19433,
+    "open_issues_count": 37,
+    "forks_count": 2557
   },
   {
     "full_name": "janritter/aws-lambda-live-tuner",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "tmrts/go-patterns",
-    "stargazers_count": 21695,
+    "stargazers_count": 21717,
     "open_issues_count": 62,
-    "forks_count": 2006
+    "forks_count": 2014
   },
   {
     "full_name": "hendratommy/repository-pattern",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "shomali11/go-interview",
-    "stargazers_count": 4264,
+    "stargazers_count": 4266,
     "open_issues_count": 0,
-    "forks_count": 449
+    "forks_count": 450
   },
   {
     "full_name": "meteran/gnext",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "goreleaser/goreleaser",
-    "stargazers_count": 11391,
-    "open_issues_count": 28,
+    "stargazers_count": 11401,
+    "open_issues_count": 26,
     "forks_count": 803
   },
   {
     "full_name": "SerenityOS/jakt",
-    "stargazers_count": 2503,
-    "open_issues_count": 55,
-    "forks_count": 241
+    "stargazers_count": 2504,
+    "open_issues_count": 56,
+    "forks_count": 240
   }
 ]
