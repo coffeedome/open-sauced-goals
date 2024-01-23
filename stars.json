@@ -1,31 +1,31 @@
 [
   {
     "full_name": "python/cpython",
-    "stargazers_count": 57886,
-    "open_issues_count": 8495,
-    "forks_count": 28677
+    "stargazers_count": 57939,
+    "open_issues_count": 8499,
+    "forks_count": 28707
   },
   {
     "full_name": "LukeMathWalker/pavex",
-    "stargazers_count": 1201,
+    "stargazers_count": 1208,
     "open_issues_count": 4,
     "forks_count": 38
   },
   {
     "full_name": "ZoranPandovski/al-go-rithms",
-    "stargazers_count": 1311,
+    "stargazers_count": 1312,
     "open_issues_count": 63,
     "forks_count": 2003
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 15304,
-    "open_issues_count": 1667,
-    "forks_count": 912
+    "stargazers_count": 15347,
+    "open_issues_count": 1675,
+    "forks_count": 918
   },
   {
     "full_name": "ndelvalle/rustapi",
-    "stargazers_count": 329,
+    "stargazers_count": 331,
     "open_issues_count": 5,
     "forks_count": 43
   },
@@ -37,33 +37,33 @@
   },
   {
     "full_name": "graphql-rust/juniper",
-    "stargazers_count": 5437,
+    "stargazers_count": 5442,
     "open_issues_count": 110,
     "forks_count": 412
   },
   {
     "full_name": "vercel-community/rust",
-    "stargazers_count": 722,
-    "open_issues_count": 13,
+    "stargazers_count": 725,
+    "open_issues_count": 15,
     "forks_count": 48
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 31061,
-    "open_issues_count": 112,
+    "stargazers_count": 31137,
+    "open_issues_count": 101,
     "forks_count": 1121
   },
   {
     "full_name": "docker/awesome-compose",
-    "stargazers_count": 28159,
+    "stargazers_count": 28242,
     "open_issues_count": 143,
-    "forks_count": 5468
+    "forks_count": 5478
   },
   {
     "full_name": "DvorakDwarf/Infinite-Storage-Glitch",
-    "stargazers_count": 10920,
+    "stargazers_count": 10929,
     "open_issues_count": 0,
-    "forks_count": 899
+    "forks_count": 901
   },
   {
     "full_name": "Stedi-Public-Archive/ts2asl",
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "tlepoint/fhe.rs",
-    "stargazers_count": 139,
-    "open_issues_count": 4,
+    "stargazers_count": 140,
+    "open_issues_count": 5,
     "forks_count": 20
   },
   {
     "full_name": "cloudflare/wildebeest",
-    "stargazers_count": 2019,
+    "stargazers_count": 2020,
     "open_issues_count": 40,
     "forks_count": 410
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 14567,
+    "stargazers_count": 14576,
     "open_issues_count": 438,
-    "forks_count": 1384
+    "forks_count": 1385
   },
   {
     "full_name": "gojp/goreportcard",
@@ -103,20 +103,20 @@
   },
   {
     "full_name": "bxcodec/go-clean-arch",
-    "stargazers_count": 8406,
+    "stargazers_count": 8410,
     "open_issues_count": 29,
-    "forks_count": 1166
+    "forks_count": 1167
   },
   {
     "full_name": "weaveworks/ignite",
-    "stargazers_count": 3476,
+    "stargazers_count": 3478,
     "open_issues_count": 174,
     "forks_count": 222
   },
   {
     "full_name": "awslabs/aws-lambda-rust-runtime",
-    "stargazers_count": 3047,
-    "open_issues_count": 7,
+    "stargazers_count": 3052,
+    "open_issues_count": 6,
     "forks_count": 320
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "DataDog/go-profiler-notes",
-    "stargazers_count": 3422,
+    "stargazers_count": 3426,
     "open_issues_count": 1,
     "forks_count": 205
   },
@@ -139,33 +139,33 @@
   },
   {
     "full_name": "mauricioabreu/golings",
-    "stargazers_count": 371,
+    "stargazers_count": 376,
     "open_issues_count": 2,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "runfinch/finch",
-    "stargazers_count": 3276,
-    "open_issues_count": 112,
+    "stargazers_count": 3285,
+    "open_issues_count": 113,
     "forks_count": 81
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 117110,
-    "open_issues_count": 9017,
-    "forks_count": 17604
+    "stargazers_count": 117211,
+    "open_issues_count": 9021,
+    "forks_count": 17626
   },
   {
     "full_name": "redis/go-redis",
-    "stargazers_count": 18617,
-    "open_issues_count": 206,
-    "forks_count": 2240
+    "stargazers_count": 18632,
+    "open_issues_count": 207,
+    "forks_count": 2241
   },
   {
     "full_name": "quii/learn-go-with-tests",
-    "stargazers_count": 20749,
-    "open_issues_count": 46,
-    "forks_count": 2741
+    "stargazers_count": 20778,
+    "open_issues_count": 49,
+    "forks_count": 2744
   },
   {
     "full_name": "janritter/aws-lambda-live-tuner",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "tmrts/go-patterns",
-    "stargazers_count": 23458,
+    "stargazers_count": 23478,
     "open_issues_count": 62,
-    "forks_count": 2183
+    "forks_count": 2187
   }
 ]
