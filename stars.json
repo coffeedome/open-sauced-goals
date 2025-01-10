@@ -1,55 +1,55 @@
 [
   {
     "full_name": "awslabs/multi-agent-orchestrator",
-    "stargazers_count": 3698,
-    "open_issues_count": 34,
-    "forks_count": 277
+    "stargazers_count": 3744,
+    "open_issues_count": 33,
+    "forks_count": 283
   },
   {
     "full_name": "NVIDIA/NeMo-Guardrails",
-    "stargazers_count": 4294,
-    "open_issues_count": 103,
-    "forks_count": 411
+    "stargazers_count": 4301,
+    "open_issues_count": 106,
+    "forks_count": 416
   },
   {
     "full_name": "fastai/fastbook",
-    "stargazers_count": 22290,
+    "stargazers_count": 22312,
     "open_issues_count": 157,
-    "forks_count": 8552
+    "forks_count": 8556
   },
   {
     "full_name": "xai-org/grok-1",
-    "stargazers_count": 49756,
+    "stargazers_count": 49767,
     "open_issues_count": 107,
     "forks_count": 8343
   },
   {
     "full_name": "python/cpython",
-    "stargazers_count": 64629,
-    "open_issues_count": 8995,
-    "forks_count": 30809
+    "stargazers_count": 64649,
+    "open_issues_count": 8974,
+    "forks_count": 30833
   },
   {
     "full_name": "LukeMathWalker/pavex",
-    "stargazers_count": 1806,
+    "stargazers_count": 1810,
     "open_issues_count": 7,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "ZoranPandovski/al-go-rithms",
-    "stargazers_count": 1348,
+    "stargazers_count": 1349,
     "open_issues_count": 64,
-    "forks_count": 1940
+    "forks_count": 1938
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 23028,
-    "open_issues_count": 1641,
-    "forks_count": 1414
+    "stargazers_count": 23095,
+    "open_issues_count": 1652,
+    "forks_count": 1419
   },
   {
     "full_name": "ndelvalle/rustapi",
-    "stargazers_count": 489,
+    "stargazers_count": 492,
     "open_issues_count": 17,
     "forks_count": 59
   },
@@ -61,33 +61,33 @@
   },
   {
     "full_name": "graphql-rust/juniper",
-    "stargazers_count": 5739,
-    "open_issues_count": 104,
+    "stargazers_count": 5741,
+    "open_issues_count": 105,
     "forks_count": 428
   },
   {
     "full_name": "vercel-community/rust",
-    "stargazers_count": 883,
+    "stargazers_count": 884,
     "open_issues_count": 14,
     "forks_count": 51
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 35450,
-    "open_issues_count": 129,
-    "forks_count": 1277
+    "stargazers_count": 35500,
+    "open_issues_count": 136,
+    "forks_count": 1281
   },
   {
     "full_name": "docker/awesome-compose",
-    "stargazers_count": 36516,
+    "stargazers_count": 36587,
     "open_issues_count": 249,
-    "forks_count": 6888
+    "forks_count": 6897
   },
   {
     "full_name": "DvorakDwarf/Infinite-Storage-Glitch",
-    "stargazers_count": 11453,
+    "stargazers_count": 11455,
     "open_issues_count": 0,
-    "forks_count": 917
+    "forks_count": 918
   },
   {
     "full_name": "Stedi-Public-Archive/ts2asl",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 15118,
-    "open_issues_count": 463,
-    "forks_count": 1291
+    "stargazers_count": 15126,
+    "open_issues_count": 456,
+    "forks_count": 1295
   },
   {
     "full_name": "gojp/goreportcard",
-    "stargazers_count": 2020,
+    "stargazers_count": 2022,
     "open_issues_count": 35,
     "forks_count": 249
   },
   {
     "full_name": "bxcodec/go-clean-arch",
-    "stargazers_count": 9323,
+    "stargazers_count": 9332,
     "open_issues_count": 34,
-    "forks_count": 1236
+    "forks_count": 1243
   },
   {
     "full_name": "weaveworks/ignite",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "awslabs/aws-lambda-rust-runtime",
-    "stargazers_count": 3384,
+    "stargazers_count": 3386,
     "open_issues_count": 11,
     "forks_count": 348
   },
@@ -159,24 +159,24 @@
     "full_name": "syte-ai/iOS-SDK",
     "stargazers_count": 2,
     "open_issues_count": 1,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "mauricioabreu/golings",
-    "stargazers_count": 687,
+    "stargazers_count": 691,
     "open_issues_count": 4,
     "forks_count": 103
   },
   {
     "full_name": "runfinch/finch",
-    "stargazers_count": 3607,
+    "stargazers_count": 3608,
     "open_issues_count": 108,
     "forks_count": 95
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 124939,
-    "open_issues_count": 9560,
-    "forks_count": 17767
+    "stargazers_count": 125013,
+    "open_issues_count": 9580,
+    "forks_count": 17768
   }
 ]
